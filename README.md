@@ -1,2 +1,3 @@
-# Rounded-corners-view-for-Android
-A custom view which has four corners, each of the corners have a separate radius which can be changed independently
+# Leaf-container-view-for-Android
+A custom view which can be used to contain a number of stuff presented in a smarter way
+
